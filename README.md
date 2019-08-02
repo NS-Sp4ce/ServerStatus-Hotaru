@@ -13,6 +13,9 @@
 
 ## 安装方法
 
+`wget https://raw.githubusercontent.com/CokeMine/ServerStatus-Hotaru/master/status.sh
+bash status.sh s`
+
 请见：https://www.cokemine.com/serverstatus-hotaru.html
 
 ## 修改方法
